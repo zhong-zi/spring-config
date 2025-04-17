@@ -1,0 +1,3 @@
+server:
+  port: 9998
+foo: foo version 2
